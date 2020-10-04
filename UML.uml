@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>grafos.busqueda.interfaces.IEstrategiaBusqueda</OriginalElement>
+  <nodes>
+    <node x="0.0" y="649.5">main.FabricaGrafo</node>
+    <node x="941.3401505901505" y="638.0">grafos.common.Arco</node>
+    <node x="827.1763329263329" y="136.0">grafos.interfaces.INodo</node>
+    <node x="791.5521978021977" y="0.0">grafos.interfaces.IArco</node>
+    <node x="234.0" y="660.5">grafos.interfaces.IGrafoConPesos</node>
+    <node x="298.0" y="918.0">main.MainConInstanciacion</node>
+    <node x="765.625" y="433.0">grafos.common.Nodo</node>
+    <node x="319.6771978021977" y="478.0">grafos.interfaces.IGrafo</node>
+    <node x="472.0" y="660.5">grafos.interfaces.IGrafoSinPesos</node>
+    <node x="730.625" y="818.0">grafos.grafo.Grafo</node>
+    <node x="395.6146978021977" y="307.0">grafos.busqueda.interfaces.IEstrategiaBusqueda</node>
+    <node x="702.875" y="627.0">grafos.common.ArcoConPeso</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="grafos.interfaces.IGrafoSinPesos" target="grafos.interfaces.IGrafo">
+      <point x="0.0" y="-27.0" />
+      <point x="571.0" y="597.0" />
+      <point x="465.8021978021977" y="597.0" />
+      <point x="62.625" y="27.0" />
+    </edge>
+    <edge source="main.MainConInstanciacion" target="main.FabricaGrafo">
+      <point x="-78.0" y="-27.0" />
+      <point x="324.0" y="798.0" />
+      <point x="107.0" y="798.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="grafos.common.Arco" target="grafos.interfaces.IArco">
+      <point x="41.25" y="-49.5" />
+      <point x="1037.5901505901504" y="607.0" />
+      <point x="1035.6763329263329" y="607.0" />
+      <point x="1035.6763329263329" y="96.0" />
+      <point x="892.3855311355311" y="96.0" />
+      <point x="45.83333333333335" y="38.0" />
+    </edge>
+    <edge source="main.FabricaGrafo" target="grafos.interfaces.IGrafo">
+      <point x="0.0" y="-38.0" />
+      <point x="107.0" y="597.0" />
+      <point x="340.5521978021977" y="597.0" />
+      <point x="-62.625" y="27.0" />
+    </edge>
+    <edge source="grafos.common.Arco" target="grafos.common.Nodo">
+      <point x="-41.25" y="-49.5" />
+      <point x="955.0901505901505" y="607.0" />
+      <point x="947.125" y="607.0" />
+      <point x="82.5" y="72.0" />
+    </edge>
+    <edge source="grafos.common.Nodo" target="grafos.interfaces.INodo">
+      <point x="24.75" y="-72.0" />
+      <point x="889.375" y="408.0" />
+      <point x="892.2802452177451" y="408.0" />
+      <point x="892.2802452177451" y="287.0" />
+      <point x="897.8906186406186" y="287.0" />
+      <point x="-28.285714285714278" y="60.5" />
+    </edge>
+    <edge source="main.MainConInstanciacion" target="grafos.interfaces.IGrafo">
+      <point x="26.0" y="-27.0" />
+      <point x="428.0" y="798.0" />
+      <point x="461.5" y="798.0" />
+      <point x="461.5" y="607.0" />
+      <point x="424.0521978021977" y="607.0" />
+      <point x="20.875" y="27.0" />
+    </edge>
+    <edge source="main.MainConInstanciacion" target="grafos.interfaces.IGrafoSinPesos">
+      <point x="78.0" y="-27.0" />
+      <point x="480.0" y="798.0" />
+      <point x="521.5" y="798.0" />
+      <point x="-49.5" y="27.0" />
+    </edge>
+    <edge source="grafos.common.Nodo" target="grafos.interfaces.IArco">
+      <point x="-74.25" y="-72.0" />
+      <point x="790.375" y="408.0" />
+      <point x="800.9945309320309" y="408.0" />
+      <point x="800.9945309320309" y="106.0" />
+      <point x="819.0521978021977" y="106.0" />
+      <point x="-27.5" y="38.0" />
+    </edge>
+    <edge source="main.MainConInstanciacion" target="grafos.interfaces.IGrafoConPesos">
+      <point x="-26.0" y="-27.0" />
+      <point x="376.0" y="798.0" />
+      <point x="342.5" y="798.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="grafos.grafo.Grafo" target="grafos.common.Nodo">
+      <point x="0.0" y="-127.0" />
+      <point x="892.125" y="798.0" />
+      <point x="894.4620472120472" y="798.0" />
+      <point x="894.4620472120472" y="607.0" />
+      <point x="914.125" y="607.0" />
+      <point x="49.5" y="72.0" />
+    </edge>
+    <edge source="grafos.grafo.Grafo" target="grafos.interfaces.IGrafoSinPesos">
+      <point x="-143.55555555555554" y="-127.0" />
+      <point x="748.5694444444443" y="798.0" />
+      <point x="620.5" y="798.0" />
+      <point x="49.5" y="27.0" />
+    </edge>
+    <edge source="grafos.grafo.Grafo" target="grafos.busqueda.interfaces.IEstrategiaBusqueda">
+      <point x="-107.66666666666663" y="-127.0" />
+      <point x="784.4583333333333" y="788.0" />
+      <point x="680.5" y="788.0" />
+      <point x="680.5" y="408.0" />
+      <point x="586.8646978021977" y="408.0" />
+      <point x="63.75" y="38.0" />
+    </edge>
+    <edge source="grafos.grafo.Grafo" target="grafos.interfaces.INodo">
+      <point x="143.55555555555554" y="-127.0" />
+      <point x="1035.6805555555554" y="798.0" />
+      <point x="1064.1771978021977" y="798.0" />
+      <point x="1064.1771978021977" y="287.0" />
+      <point x="1011.0334757834758" y="287.0" />
+      <point x="84.85714285714283" y="60.5" />
+    </edge>
+    <edge source="grafos.common.ArcoConPeso" target="grafos.interfaces.IArco">
+      <point x="-51.0" y="-60.5" />
+      <point x="719.875" y="607.0" />
+      <point x="727.7802452177451" y="607.0" />
+      <point x="727.7802452177451" y="96.0" />
+      <point x="800.7188644688645" y="96.0" />
+      <point x="-45.83333333333333" y="38.0" />
+    </edge>
+    <edge source="grafos.interfaces.INodo" target="grafos.interfaces.IArco">
+      <point x="-49.5" y="-60.5" />
+      <point x="876.6763329263329" y="116.0" />
+      <point x="855.7188644688644" y="116.0" />
+      <point x="9.166666666666657" y="38.0" />
+    </edge>
+    <edge source="grafos.interfaces.IGrafoConPesos" target="grafos.interfaces.IGrafo">
+      <point x="0.0" y="-27.0" />
+      <point x="342.5" y="607.0" />
+      <point x="382.3021978021977" y="607.0" />
+      <point x="-20.875" y="27.0" />
+    </edge>
+    <edge source="grafos.interfaces.IGrafo" target="grafos.busqueda.interfaces.IEstrategiaBusqueda">
+      <point x="0.0" y="-27.0" />
+      <point x="403.1771978021977" y="408.0" />
+      <point x="459.3646978021977" y="408.0" />
+      <point x="-63.75" y="38.0" />
+    </edge>
+    <edge source="grafos.interfaces.IArco" target="grafos.interfaces.INodo">
+      <point x="27.500000000000007" y="38.0" />
+      <point x="874.0521978021977" y="106.0" />
+      <point x="975.6763329263329" y="106.0" />
+      <point x="49.5" y="-60.5" />
+    </edge>
+    <edge source="grafos.busqueda.interfaces.IEstrategiaBusqueda" target="grafos.interfaces.INodo">
+      <point x="0.0" y="-38.0" />
+      <point x="523.1146978021977" y="277.0" />
+      <point x="841.3191900691901" y="277.0" />
+      <point x="-84.85714285714283" y="60.5" />
+    </edge>
+    <edge source="grafos.common.ArcoConPeso" target="grafos.common.Nodo">
+      <point x="17.0" y="-60.5" />
+      <point x="787.875" y="607.0" />
+      <point x="782.125" y="607.0" />
+      <point x="-82.5" y="72.0" />
+    </edge>
+    <edge source="grafos.common.ArcoConPeso" target="grafos.interfaces.INodo">
+      <point x="-17.0" y="-60.5" />
+      <point x="753.875" y="607.0" />
+      <point x="744.7120472120472" y="607.0" />
+      <point x="744.7120472120472" y="287.0" />
+      <point x="869.6049043549043" y="287.0" />
+      <point x="-56.571428571428555" y="60.5" />
+    </edge>
+    <edge source="grafos.grafo.Grafo" target="grafos.common.Arco">
+      <point x="35.88888888888886" y="-127.0" />
+      <point x="928.0138888888888" y="768.0" />
+      <point x="959.6734839234839" y="768.0" />
+      <point x="-36.66666666666666" y="49.5" />
+    </edge>
+    <edge source="grafos.common.Arco" target="grafos.interfaces.INodo">
+      <point x="13.75" y="-49.5" />
+      <point x="1010.0901505901505" y="607.0" />
+      <point x="1002.6469525844525" y="607.0" />
+      <point x="1002.6469525844525" y="277.0" />
+      <point x="982.7477614977615" y="277.0" />
+      <point x="56.57142857142861" y="60.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="385.8888888888887" y="635.8571428571429" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
