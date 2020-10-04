@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f43ba62-87d9-45be-9281-cfa5a7a203fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iQvRxRsdYNAaBPYXjwNMphqS2g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainConInstanciacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.MainConInstanciacion" />
+      <module name="taller_grafos_8v" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainConInstanciacion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f43ba62-87d9-45be-9281-cfa5a7a203fc" name="Default Changelist" comment="" />
+      <created>1601852649845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601852649845</updated>
+      <workItem from="1601852651418" duration="203000" />
+      <workItem from="1601852869607" duration="1430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="529" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601852693817">
+      <screen x="0" y="0" width="1536" height="838" />
+    </state>
+    <state x="529" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.838@0.0.1536.838" timestamp="1601852693817" />
+    <state x="515" y="2" key="Diagram.Print.Preview.Dialog" timestamp="1601853171219">
+      <screen x="0" y="0" width="1536" height="838" />
+    </state>
+    <state x="515" y="2" key="Diagram.Print.Preview.Dialog/0.0.1536.838@0.0.1536.838" timestamp="1601853171219" />
+    <state x="550" y="174" key="FileChooserDialogImpl" timestamp="1601853436032">
+      <screen x="0" y="0" width="1536" height="838" />
+    </state>
+    <state x="550" y="174" key="FileChooserDialogImpl/0.0.1536.838@0.0.1536.838" timestamp="1601853436032" />
+    <state width="1492" height="215" key="GridCell.Tab.0.bottom" timestamp="1601854310641">
+      <screen x="0" y="0" width="1536" height="838" />
+    </state>
+    <state width="1492" height="215" key="GridCell.Tab.0.bottom/0.0.1536.838@0.0.1536.838" timestamp="1601854310641" />
+    <state width="1492" height="215" key="GridCell.Tab.0.center" timestamp="1601854310641">
+      <screen x="0" y="0" width="1536" height="838" />
+    </state>
+    <state width="1492" height="215" key="GridCell.Tab.0.center/0.0.1536.838@0.0.1536.838" timestamp="1601854310641" />
+    <state width="1492" height="215" key="GridCell.Tab.0.left" timestamp="1601854310641">
+      <screen x="0" y="0" width="1536" height="838" />
+    </state>
+    <state width="1492" height="215" key="GridCell.Tab.0.left/0.0.1536.838@0.0.1536.838" timestamp="1601854310641" />
+    <state width="1492" height="215" key="GridCell.Tab.0.right" timestamp="1601854310641">
+      <screen x="0" y="0" width="1536" height="838" />
+    </state>
+    <state width="1492" height="215" key="GridCell.Tab.0.right/0.0.1536.838@0.0.1536.838" timestamp="1601854310641" />
+    <state x="278" y="64" key="SettingsEditor" timestamp="1601852855330">
+      <screen x="0" y="0" width="1536" height="838" />
+    </state>
+    <state x="278" y="64" key="SettingsEditor/0.0.1536.838@0.0.1536.838" timestamp="1601852855330" />
+  </component>
+</project>
